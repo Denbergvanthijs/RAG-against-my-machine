@@ -1,3 +1,7 @@
+# Custom
+ov_model_dir/
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
