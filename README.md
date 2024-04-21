@@ -4,6 +4,8 @@
 
 <https://python.langchain.com/docs/use_cases/question_answering/quickstart/>
 <https://huggingface.co/settings/tokens>
+<https://www.sbert.net/docs/pretrained_models.html>
+<https://smith.langchain.com/>
 
 ```bash
 python -m pip install --upgrade pip

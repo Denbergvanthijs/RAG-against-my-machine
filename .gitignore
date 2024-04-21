@@ -1,6 +1,7 @@
 # Custom
 ov_model_dir/
 data/
+chroma_db/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
