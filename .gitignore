@@ -2,6 +2,7 @@
 ov_model_dir/
 data/
 chroma_db/
+GEITje-7B-chat-v2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

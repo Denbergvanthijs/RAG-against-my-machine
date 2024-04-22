@@ -6,6 +6,7 @@
 <https://huggingface.co/settings/tokens>
 <https://www.sbert.net/docs/pretrained_models.html>
 <https://smith.langchain.com/>
+<https://smith.langchain.com/hub/rlm/rag-prompt-mistral>
 
 ```bash
 python -m pip install --upgrade pip
